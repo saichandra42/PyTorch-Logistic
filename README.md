@@ -7,3 +7,4 @@ Logistic regression implementation with optimization in AWS Sagemaker.
 - [ ] Tensorboard API to create versions of the models.
 - [ ] Clean up the code and use parallel processing to fasten the training process
 - [ ] Overfitting/underfitting issue.
+- [ ] Model loss is 0 and 100 alternatively
